@@ -2,6 +2,8 @@
 
 Glad you found my profile 😄 I'm Carlos, a software developer with a passion for building and creating. I'm currently studying Software Engineering at UAX and immersing myself in 42 Madrid, where we explore software engineering fundamentals through projects in C and C++.
 
+Before diving into software development, I worked in marketing—developing and implementing campaigns, analyzing data, and optimizing user experiences.
+
 ### 🔧 Technologies & Tools
 - **Programming Languages**: C, C++, Bash, Python, currently learning C# and Unity.
 - **Tools**: Git, Visual Studio Code, Power Query.
@@ -18,3 +20,4 @@ Take care!
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carlosmg)
+- [Email Me](mailto:carlosmg.mkt@gmail.com)
