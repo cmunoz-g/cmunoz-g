@@ -20,4 +20,4 @@ Take care!
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carlosmg)
-- [Email Me](mailto:carlosmg.mkt@gmail.com)
+- [Email Me](mailto:cmunozg.dev@gmail.com)
