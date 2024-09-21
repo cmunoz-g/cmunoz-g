@@ -6,10 +6,8 @@ Glad you found my profile 😄 I'm Carlos, a software developer with a passion f
 - **Programming Languages**: C, C++, Bash, Python, currently learning C# and Unity.
 - **Tools**: Git, Visual Studio Code, Power Query.
 
-### 📈 Stats
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmg&show_icons=true&theme=radical)
-
-[![Carlos' 42 stats](https://badge.mediaplus.ma/darkblue/<cmunoz-g>)](https://github.com/cmunoz-g/badge42)
+### 📈 42 Stats
+[![cmunoz-g's 42 stats](https://badge.mediaplus.ma/darkblue/cmunoz-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### 🎨 Beyond Code
 When I'm not coding, you can find me playing the piano, composing music, hitting the gym, or lost in a good book. I love the process of bringing ideas to life, whatever the medium.
