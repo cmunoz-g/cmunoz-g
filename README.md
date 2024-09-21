@@ -1,16 +1,22 @@
-## Hi there 👋
+## What's good! 👋
 
-<!--
-**cmunoz-g/cmunoz-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glad you found my profile 😄 I'm Carlos, a software developer with a passion for building and creating. I'm currently studying Software Engineering at UAX and immersing myself in 42 Madrid, where we explore software engineering fundamentals through projects in C and C++.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Programming Languages**: C, C++, Bash, Python, currently learning C# and Unity.
+- **Tools**: Git, Visual Studio Code, Power Query.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Stats
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmg&show_icons=true&theme=radical)
+
+[![Carlos' 42 stats](https://badge.mediaplus.ma/darkblue/<cmunoz-g>)](https://github.com/cmunoz-g/badge42)
+
+### 🎨 Beyond Code
+When I'm not coding, you can find me playing the piano, composing music, hitting the gym, or lost in a good book. I love the process of bringing ideas to life, whatever the medium.
+
+Feel free to reach out if you'd like to chat about code, music, or anything in between!
+
+Take care!
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/carlosmg)
