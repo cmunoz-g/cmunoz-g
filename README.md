@@ -19,5 +19,5 @@ Feel free to reach out if you'd like to chat about code, music, or anything in b
 Take care!
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/carlosmg)
+- [LinkedIn](https://www.linkedin.com/in/cmunoz-g)
 - [Email Me](mailto:cmunozg.dev@gmail.com)
