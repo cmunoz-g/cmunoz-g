@@ -5,7 +5,7 @@ Glad you found my profile 😄 I'm Carlos, a software developer with a passion f
 Before diving into software development, I worked in marketing—developing and implementing campaigns, analyzing data, and optimizing user experiences.
 
 ### 🔧 Technologies & Tools
-- **Programming Languages**: C, C++, Bash, Python, currently learning C# and Unity.
+- **Programming Languages**: C, C++, Bash, Python, a bit of Solidity!
 - **Tools**: Git, Visual Studio Code, Power Query.
 
 ### 📈 42 Stats
