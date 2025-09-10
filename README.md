@@ -1,23 +1,22 @@
-## What's good! 👋
+## Carlos Muñoz Gutiérrez
 
-I'm Carlos, a software developer with a passion for building and creating. I'm currently studying Software Engineering at UAX and immersing myself in 42 Madrid, where we explore software engineering fundamentals through projects in C and C++.
+I’m a systems and backend developer focused on C, C++, and Python. Right now I’m studying Software Engineering at UAX and working through projects at 42 Madrid, where I spend most of my time with Linux, processes, sockets, and memory management. Before shifting fully into tech, I worked in marketing ops, building small automations to make reporting and data handling less painful.
 
-Before diving into software development, I worked in marketing—developing and implementing campaigns, analyzing data, and optimizing user experiences.
+### Technologies & tools
+- **Languages:** C, C++, Python, Java, Bash  
+- **Systems / Networking:** Linux/UNIX, POSIX, sockets, TCP/IP, threads, memory management
+- **Tooling:** Git, Docker, Makefile, Valgrind
+- **IDE's:** VS Code, JetBrains Suite
 
-### 🔧 Technologies & Tools
-- **Programming Languages**: C, C++, Bash, Python
-- **Tools**: Git, Visual Studio Code, Docker
-
-### 📈 42 Stats
+### 42 stats
 [![cmunoz-g's 42 stats](https://badge.mediaplus.ma/darkblue/cmunoz-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-### 🎨 Beyond Code
-When I'm not coding, you can find me playing the piano, composing music, hitting the gym, or lost in a good book. I love the process of bringing ideas to life, whatever the medium.
+### Portfolio
+[cmunoz-g.netlify.app](https://cmunoz-g.netlify.app)
 
-Feel free to reach out if you'd like to chat about code, music, or anything in between!
+### Beyond code
+When I’m not working, I’m usually at the piano, writing music, lifting, or reading something interesting.
 
-Take care!
-
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/cmunoz-g)
-- [Email Me](mailto:cmunozg.dev@gmail.com)
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/cmunoz-g)  
+- [Email](mailto:cmunozg.dev@gmail.com)
