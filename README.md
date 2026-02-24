@@ -1,6 +1,6 @@
 ## Carlos Muñoz Gutiérrez
 
-I'm a C++ developer. Currently working on cool projects for Airbus D&S and stuying Software Engineering at UAX.
+I'm a C++ developer currently working on cool projects for Airbus D&S and stuying Software Engineering at UAX.
 
 ### Technologies & tools
 - **Languages:** C, C++, Python
